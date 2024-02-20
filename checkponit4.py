@@ -55,5 +55,17 @@ list_name.append('Casandra')
 
 list_name[0] = 'Jokin'
 
+# Exercise 8
+
+#Si solo quiero ordenarla pero no quiero guardar el resultado en una variable
+
+list_name.sort()
+print(list_name)
+
+
+# Si lo que quiero es crear esa lista ordenada para trabajar sobre ella
+
+list_name_ord = sorted(list_name)
+print(list_name_ord)
 
 
