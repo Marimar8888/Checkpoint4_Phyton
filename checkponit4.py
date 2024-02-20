@@ -51,4 +51,9 @@ print(one_level) # puedo hacer lo que necesite con él primer elemento como pued
 
 list_name.append('Casandra')
 
+# Exercise 7
+
+list_name[0] = 'Jokin'
+
+
 
