@@ -1,4 +1,5 @@
 from decimal import Decimal
+import math
 
 # Exercise 1
 
@@ -19,3 +20,8 @@ dict_players = {
 }
 
 service_price = Decimal(12.99)
+
+# Exercise 2
+
+float_one_ceil = math.ceil(float_one)
+
