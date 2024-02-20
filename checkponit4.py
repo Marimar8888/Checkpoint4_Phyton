@@ -29,5 +29,7 @@ float_one_ceil = math.ceil(float_one)
 
 float_one_sqrt = math.sqrt(float_one_ceil)
 
+# Exercise 4
 
+dict_player_1 = dict_players['6']
 
