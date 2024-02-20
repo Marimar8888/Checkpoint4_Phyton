@@ -47,5 +47,8 @@ one_level, two_author, three_title = tupla_book # empaqueto los elementos de la 
 
 print(one_level) # puedo hacer lo que necesite con él primer elemento como puede ser imprimir
 
+# Exercise 6
+
+list_name.append('Casandra')
 
 
