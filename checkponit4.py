@@ -31,5 +31,5 @@ float_one_sqrt = math.sqrt(float_one_ceil)
 
 # Exercise 4
 
-dict_player_1 = dict_players['6']
+dict_player_one = dict_players['6']
 
