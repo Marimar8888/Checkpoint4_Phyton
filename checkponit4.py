@@ -25,3 +25,9 @@ service_price = Decimal(12.99)
 
 float_one_ceil = math.ceil(float_one)
 
+# Exercise 3
+
+float_one_sqrt = math.sqrt(float_one_ceil)
+
+
+
