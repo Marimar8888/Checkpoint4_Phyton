@@ -33,3 +33,19 @@ float_one_sqrt = math.sqrt(float_one_ceil)
 
 dict_player_one = dict_players['6']
 
+# Exercise 5
+
+# Una forma
+
+level= tupla_book[0] # Lo selecciono como hago con la lista
+
+print(level)
+
+# Otra forma
+
+one_level, two_author, three_title = tupla_book # empaqueto los elementos de la tupla 
+
+print(one_level) # puedo hacer lo que necesite con él primer elemento como puede ser imprimir
+
+
+
